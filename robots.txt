@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://canteris.github.io/sitemap.html.gz
+Sitemap: https://canteris.github.io/app/sitemap.html.gz
+Sitemap: https://canteris.github.io/assets/sitemap.html.gz
+Sitemap: https://canteris.github.io/css/sitemap.html.gz
+Sitemap: https://canteris.github.io/includes/sitemap.html.gz
+Sitemap: https://canteris.github.io/item/sitemap.html.gz
+Sitemap: https://canteris.github.io/src/sitemap.html.gz
